@@ -1,3 +1,3 @@
-![Oi](https://github.com/samurai-py/samurai-py/blob/main/images/logo.pn
+![Oi](https://github.com/samurai-py/samurai-py/blob/main/images/logo.png)
 
 
