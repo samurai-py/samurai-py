@@ -19,10 +19,9 @@
 <img align="center" alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
 <img align="center" alt="MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 <img align="center" alt="OpenCV" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original-wordmark.svg" />
-<img align="center" alt="OpenAI" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" />
-<img align="center" alt="LangChain" height="30" width="40" src="![image](https://github.com/user-attachments/assets/5190ef70-ca8a-48ee-9510-e423fc8e10da)
-" />
-<img align="center" alt="Grok" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Neural_network.svg" />
+<img align="center" alt="OpenAI" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" />
+<img align="center" alt="LangChain" height="30" width="40" src="https://github.com/samurai-py/samurai-py/blob/main/images/langchain-seeklogo.svg"/>
+<img align="center" alt="MLFlow" height="30" width="40" src="https://images.chainguard.dev/logos/mlflow.svg" />
 <br />
 <br />
 
