@@ -7,24 +7,33 @@
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 <br />
 
-<img align="center" alt="Ubiratan-Py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img align="center" alt="Ubiratan-Jv" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" />
-  <img align="center" alt="Ubiratan-AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
-  <img align="center" alt="Ubiratan-GC" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
-  <img align="center" alt="Ubiratan-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  <br />
-  <br />
-  
+<!-- Linguagens e Ferramentas -->
+<img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img align="center" alt="Ruby" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" />
+<img align="center" alt="Google Cloud" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
+<img align="center" alt="Azure" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" /> 
+<img align="center" alt="Pandas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" />
+<img align="center" alt="Airflow" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" />
+<img align="center" alt="Spark" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg" />
+<img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+<img align="center" alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+<img align="center" alt="MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+<img align="center" alt="OpenCV" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original-wordmark.svg" />
+<img align="center" alt="OpenAI" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" />
+<img align="center" alt="LangChain" height="30" width="40" src="![image](https://github.com/user-attachments/assets/5190ef70-ca8a-48ee-9510-e423fc8e10da)
+" />
+<img align="center" alt="Grok" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Neural_network.svg" />
+<br />
+<br />
 
+<!-- Contador de Visitantes -->
 ![Visitor Count](https://profile-counter.glitch.me/samurai-py/count.svg)
 
-
+<!-- Animações -->
 <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/notepad.gif" alt="Site created with Notepad" height="30" />
-<!-- "margin-right: whatever;" -->
 <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
 <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/ie_logo.gif" alt="Microsoft Internet Explorer" />
 <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
 <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="Microsoft Internet Explorer" />
-  
-</div>
 
+</div>
