@@ -1,7 +1,6 @@
-![Oi](https://github.com/samurai-py/samurai-py/blob/main/images/logo.png)
-
 <div align="center">
-
+![Oi](https://github.com/samurai-py/samurai-py/blob/main/images/logo.png)
+  
 <!-- GitHub Stats -->
 ![Estatísticas do GitHub](https://github-readme-stats-ruby-eight.vercel.app/api?username=samurai-py&show_icons=true&count_private=true&theme=chartreuse-dark)
 
