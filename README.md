@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=samurai-py&show_icons=true&theme=chartreuse-dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=samurai-py&count_private=true&show_icons=true&theme=chartreuse-dark)
 
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 <br />
