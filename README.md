@@ -1,9 +1,9 @@
 ![Oi](https://github.com/samurai-py/samurai-py/blob/main/images/logo.png)
 
+<div align="center">
+
 <!-- GitHub Stats -->
 ![Estatísticas do GitHub](https://github-readme-stats-ruby-eight.vercel.app/api?username=samurai-py&show_icons=true&count_private=true&theme=chartreuse-dark)
-
-<div align="center">
 
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 <br />
