@@ -2,8 +2,6 @@
 
 <div align="center">
 
-![Meus status](https://github-readme-stats-ruby-eight.vercel.app/api?username=samurai-py&count_private=true&show_icons=true&theme=chartreuse-dark)
-
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 <br />
 
